@@ -1,2 +1,69 @@
 # Online-Retail-Sales-Analytics
 SQL → Data Analysis → Business Insights → Tableau Dashboard
+
+# 🛒 Online Retail Sales Analytics
+
+## 📌 Project Overview
+
+This project analyzes online retail sales data using SQL and Tableau to
+identify sales trends, customer behavior, product performance, and
+business opportunities.
+
+## 🛠️ Tools & Technologies
+
+- SQL / PostgreSQL
+- Tableau
+- Data Analysis
+- Data Visualization
+- KPI Analysis
+
+## 🔍 SQL Analysis
+
+I used SQL to analyze:
+
+- Total Revenue
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Monthly Revenue
+- Top 10 Products
+- Revenue by Category
+- Revenue by City
+- Revenue by Customer Segment
+- Revenue by Sales Channel
+- Payment Performance
+- Order Cancellation Rate
+
+## 📊 Tableau Dashboard
+
+The interactive Tableau dashboard includes:
+
+- KPI cards
+- Revenue Trend
+- Customer Segment Analysis
+- Sales Channel Analysis
+- Top 10 Products by Revenue
+- Sales by City
+- Revenue by Category
+- Interactive Filters
+
+## 💡 Key Insights
+
+- Total revenue reached ₹679.5B.
+- 1,205 orders were analyzed.
+- 6,317 units were sold.
+- Consumer is the leading customer segment.
+- Tablet 4 is the top revenue-generating product.
+- Accessories is the top-performing category.
+- Jaipur leads in city-wise revenue.
+- May 2025 recorded the highest recent monthly revenue.
+
+## 📸 Dashboard
+
+![Online Retail Dashboard](Images/Dashboard.png)
+
+## 🎯 Business Value
+
+The analysis helps identify high-performing products, customer segments,
+cities, categories, and sales periods that can support better inventory
+planning and targeted marketing decisions.
